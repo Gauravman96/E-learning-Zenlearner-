@@ -53,6 +53,14 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## 📸 Screenshots (Add if available)
 
-```md
-![Home Page](screenshots/home.png)
-![Courses Page](screenshots/courses.png)
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Courses Page](https://github.com/user-attachments/assets/4ab648d8-62c9-4453-baab-8088eba5fec9)
+
+### 📚 Course Page
+![Home Page](https://github.com/user-attachments/assets/92fb5c2f-4d1a-4bcf-9f14-fa917777e026)
+
+
+
+### 📋 Enrollments Section
