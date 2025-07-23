@@ -61,6 +61,5 @@ If you are developing a production application, we recommend using TypeScript wi
 ### 📚 Course Page
 ![Home Page](https://github.com/user-attachments/assets/92fb5c2f-4d1a-4bcf-9f14-fa917777e026)
 
-
-
 ### 📋 Enrollments Section
+<img width="1910" height="841" alt="Image" src="https://github.com/user-attachments/assets/23907ce1-f672-48bf-bdd4-bf4802d5c255" />
